@@ -5,6 +5,7 @@
 *.yaml
 *.log
 *.csv
+*.bak-mo
 all_cases.txt
 
 # Folders
