@@ -2,7 +2,7 @@
 This repository contains models, analysis scripts, and preliminary calculator for estimating savings potential of ASHRAE Guideline 36 control sequences.
 
 ## Savings Calculator
-A preliminary calculator to estimate savings is implemented in ``G36_savings_calculator.xlsx`` based on simualation results from the models within this repository.  See the README sheet within the spreadsheet for more information.
+A preliminary calculator to estimate savings is implemented in ``G36_savings_calculator.xlsx`` based on simulation results from the models within this repository.  See the README sheet within the spreadsheet for more information.
 
 ## Models
 To simulate the models, please follow the steps below:
