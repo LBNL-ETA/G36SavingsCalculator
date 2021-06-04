@@ -1,0 +1,41 @@
+# Files
+#######
+*.pyc
+*.png
+*.yaml
+*.log
+*.csv
+all_cases.txt
+
+# Folders
+#########
+simulations*
+img*
+
+# Dymola output files
+#####################
+*.mat
+*dsfinal.txt
+*dsin.txt
+*dslog.txt
+*dsmodel.c
+*dymosim
+
+# JModelica output files
+########################
+*.fmu
+*result.txt
+*log.txt
+
+# Results files
+###############
+process/results/*
+
+# OS/editor files
+#################
+.DS_Store
+.idea/
+
+# Jupyter notebook files
+########################
+*.ipynb_checkpoints
