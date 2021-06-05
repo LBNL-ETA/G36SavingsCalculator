@@ -5,7 +5,7 @@ This repository contains models, analysis scripts, and preliminary calculator fo
 A preliminary calculator to estimate savings is implemented in ``G36_savings_calculator.xlsx`` based on simulation results from the models within this repository.  See the README sheet within the spreadsheet for more information.
 
 ## Models
-To simulate the models, please follow the steps below:
+Models are contained within the Modelica package ``BestInClass``.  Processing scripts are in ``process``.  To simulate the models, please follow the steps below:
 
 1. Install Git LFS first if you have not installed it on your system.
 
