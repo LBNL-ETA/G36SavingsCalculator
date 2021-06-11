@@ -34,7 +34,7 @@ equation
                     graphics={
         Line(points={{-142,48}}, color={28,108,200})}),
     experiment(
-      StopTime=1209600,
+      StopTime=86400,
       Interval=599.999616,
       __Dymola_Algorithm="Cvode"));
 end BICBase;
