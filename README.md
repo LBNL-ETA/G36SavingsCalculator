@@ -20,3 +20,8 @@ Models are contained within the Modelica package ``BestInClass``.  Processing sc
 6. You can also run models in batches using the script ``process/simulate.py`` (BuildingsPy installation is requried) and be careful with the output folders.
 
 7. If your Dymola version is under 2021, set ``Hidden.AvoidDoubleComputation = true`` in the Dymola command window before simulating the models.
+
+## Cite
+To cite this library, please use
+
+Kun Zhang, David Blum, Hwakong Cheng, Gwelen Paliaga, Michael Wetter & Jessica Granderson (2022) Estimating ASHRAE Guideline 36 energy savings for multi-zone variable air volume systems using Spawn of EnergyPlus, Journal of Building Performance Simulation, 15:2, 215-236, DOI: 10.1080/19401493.2021.2021286.
